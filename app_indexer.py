@@ -4,7 +4,6 @@ from langchain_community.vectorstores import FAISS
 from dotenv import load_dotenv
 import openai
 import os
-from langchain_core.documents import Document
 
 #load environment variables
 load_dotenv()
