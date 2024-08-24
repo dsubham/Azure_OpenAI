@@ -1,2 +1,4 @@
 # Azure_OpenAI
-Chat Application sing Streamlit
+Chat Application using Streamlit
+
+Add features for Summary and Peer Comparison
